@@ -10,10 +10,10 @@ A demo version of the API is hosted at `cowsay.api.cyanic.tk`.
 
 Use it by **GET**ting the following URL : `https://cowsay.api.cyanic.tk/:text`. This will return a JSON object such as:
 
-```json
+```
 {
-	message: "Example"
-	cow: "  _______\n< Example >\n  -------\n         \\   ^__^ \n          \\  (oo)\\_______\n             (__)\\       )\\/\\\n                 ||----w |\n                 ||     ||\n    "
+    message: "Example"
+    cow: "  _______\n< Example >\n  -------\n         \\   ^__^ \n          \\  (oo)\\_______\n             (__)\\       )\\/\\\n                 ||----w |\n                 ||     ||\n    "
 }
 ```
 
