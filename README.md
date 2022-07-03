@@ -4,6 +4,8 @@ An API dedicated to make a cow repeat whatever you want to.
 
 [![License](https://img.shields.io/github/license/Cyanic76/cowsay.js.svg?style=for-the-badge)](https://github.com/Cyanic76/cowsay.js/blob/master/LICENSE)
 
+[![UptimeRobot](https://img.shields.io/uptimerobot/ratio/m792084457-c6c3bc8beebc630cc8c19d81?label=Uptime)](https://status.cyanic.tk)
+
 ## Use the API
 
 A demo version of the API is hosted at `cowsay.api.cyanic.tk`.
