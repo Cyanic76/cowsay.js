@@ -1,3 +1,5 @@
+:warning: Moved to [**Codeberg**](https://codeberg.org/Cyanic76/cowsay.js).
+
 # Cowsay
 
 An API dedicated to make a cow repeat whatever you want to.
